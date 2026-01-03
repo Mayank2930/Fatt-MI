@@ -2,7 +2,7 @@
 
 A modern, dark-mode financial markets news landing page built with React and Tailwind CSS. Features glassmorphism design, real-time market data displays, and multiple investor viewing modes.
 
-![React](https://img.shields.io/badge/React-18.x-61DAFB?logo=react)
+![React](https://img.shields.io/badge/React-19.x-61DAFB?logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.x-38B2AC?logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/Vite-7.x-646CFF?logo=vite)
 
@@ -98,7 +98,7 @@ src/
 
 ## 🛠️ Tech Stack
 
-- **Framework**: [React 18](https://react.dev/)
+- **Framework**: [React 19](https://react.dev/)
 - **Build Tool**: [Vite 7](https://vitejs.dev/)
 - **Styling**: [Tailwind CSS 4](https://tailwindcss.com/)
 - **Routing**: [React Router 6](https://reactrouter.com/)
@@ -132,9 +132,9 @@ npm run preview  # Preview production build
 npm run lint     # Run ESLint
 ```
 
-## 📜 License
+<!-- ## 📜 License
 
-MIT © 2024 FATT Inc.
+MIT © 2024 FATT Inc. -->
 
 ---
 
