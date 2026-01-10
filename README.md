@@ -1,4 +1,4 @@
-# FATT-MI. - Financial Analytics & Trading Technology - Market Intelligence
+# FATT-WatchDog.
 
 A modern, dark-mode financial markets news landing page built with React and Tailwind CSS. Features glassmorphism design, real-time market data displays, and multiple investor viewing modes.
 
